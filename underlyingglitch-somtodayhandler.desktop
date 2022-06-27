@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=SomToday Scheme Handler
+Exec=node ./handler %u
+StartupNotify=false
+MimeType=x-scheme-handler/somtodayleerling;
